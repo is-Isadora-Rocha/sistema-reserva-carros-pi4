@@ -1,4 +1,4 @@
-# Engenharia de Software - 
+# Engenharia de Software - Reserva de Carros
 
 Trabalho em equipe para criação da aplicação de cadastro de reserva de carros. 
 
@@ -15,11 +15,11 @@ Trabalho em equipe para criação da aplicação de cadastro de reserva de carro
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/is-Isadora-Rocha">
-        <img src="https://github.com/is-Isadora-Rocha.png" width="100px;" alt="Foto da Isadora Rocha no GitHub"/><br>
+     <td align="center">
+      <a href="https://github.com/lopesalice">
+        <img src="https://github.com/lopesalice.png" width="100px;" alt="Foto da Alice Lopes no GitHub"/><br>
         <sub>
-          <b>Isadora Rocha</b>
+          <b>Alice Lopes</b>
         </sub>
       </a>
     </td>
@@ -31,11 +31,11 @@ Trabalho em equipe para criação da aplicação de cadastro de reserva de carro
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/lopesalice">
-        <img src="https://github.com/lopesalice.png" width="100px;" alt="Foto da Alice Lopes no GitHub"/><br>
+     <td align="center">
+      <a href="https://github.com/is-Isadora-Rocha">
+        <img src="https://github.com/is-Isadora-Rocha.png" width="100px;" alt="Foto da Isadora Rocha no GitHub"/><br>
         <sub>
-          <b>Alice Lopes</b>
+          <b>Isadora Rocha</b>
         </sub>
       </a>
     </td>
