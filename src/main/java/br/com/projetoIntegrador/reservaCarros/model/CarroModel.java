@@ -24,6 +24,13 @@ public class CarroModel {
 	private String descricao;
 	
 	private UUID idUsuario;
+
+	public void setDescricao(String descricao) throws Exception {
+		if(descricao.length() > 256) {
+			throw new Exception("O campo de descrição deve conter no máximo 50 caracteres");
+		}
+		this.descricao = descricao;
+	}
 	
 
 }

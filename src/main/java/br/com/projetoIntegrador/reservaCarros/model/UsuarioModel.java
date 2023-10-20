@@ -26,6 +26,8 @@ public class UsuarioModel {
 	private String nome;
 	private Number ativo;
 	private Date dt_nascimento;
+
+	private UUID idUser;
 	
 	@CreationTimestamp
 	private LocalDateTime dt_cadastro;
